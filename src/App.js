@@ -1,11 +1,8 @@
-import './App.css';
+import "./App.css";
+import Planets from "./components/Planets";
 
 function App() {
-  return (
-    <div className="App">
-      Hello World
-    </div>
-  );
+  return <Planets />;
 }
 
 export default App;
