@@ -1,12 +1,12 @@
-# mvc-tutorial-1
+# react-framer-app
 
 ## About The Project
-A simple react website with animations using Framer.
+A simple react website with animations using Framer Motion.
 
 ### Built With
 
 * [React](https://reactjs.org/)
-* [Framer motion](https://www.framer.com/motion/)
+* [Framer Motion](https://www.framer.com/motion/)
 * [YouTube Tutorial](https://www.youtube.com/watch?v=fuaVNHW-GYE)
 
 <!-- GETTING STARTED -->
